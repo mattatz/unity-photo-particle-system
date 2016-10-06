@@ -9,7 +9,7 @@ GPU Particle System (using Vertex Texture Fetch techniques) with Texture2DArray 
 
 ![Space](https://raw.githubusercontent.com/mattatz/unity-photo-particle-system/master/Captures/Space.gif)
 
-![Turbulence](https://raw.githubusercontent.com/mattatz/unity-photo-particle-system/master/Captures/Turbulene.gif)
+![Turbulence](https://raw.githubusercontent.com/mattatz/unity-photo-particle-system/master/Captures/Turbulence.gif)
 
 ![Model](https://raw.githubusercontent.com/mattatz/unity-photo-particle-system/master/Captures/Model.gif)
 
